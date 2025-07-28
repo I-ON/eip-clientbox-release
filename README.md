@@ -1,1 +1,2 @@
 # eip-clientbox-release
+@release
