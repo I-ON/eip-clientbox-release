@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "release": {
+    "0.0.1": {
+      "files": {
+        "darwin-amd64": "0.0.1/darwin-amd64/eip-client",
+        "darwin-arm64": "0.0.1/darwin-arm64/eip-client",
+        "linux-amd64": "0.0.1/linux-amd64/eip-client",
+        "linux-arm64": "0.0.1/linux-arm64/eip-client",
+        "windows-amd64": "0.0.1/windows-amd64/eip-client.exe"
+      }
+    }
+  },
+  "created": 1754531661519
+}
