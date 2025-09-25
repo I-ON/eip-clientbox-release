@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "release": {
     "1.0.0": {
       "files": {
@@ -36,7 +36,16 @@
         "linux-arm64": "1.0.3/linux-arm64/eip-client",
         "windows-amd64": "1.0.3/windows-amd64/eip-client.exe"
       }
+    },
+    "1.0.4": {
+      "files": {
+        "darwin-amd64": "1.0.4/darwin-amd64/eip-client",
+        "darwin-arm64": "1.0.4/darwin-arm64/eip-client",
+        "linux-amd64": "1.0.4/linux-amd64/eip-client",
+        "linux-arm64": "1.0.4/linux-arm64/eip-client",
+        "windows-amd64": "1.0.4/windows-amd64/eip-client.exe"
+      }
     }
   },
-  "created": 1758777611669
+  "created": 1758778495485
 }
