@@ -1,15 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "release": {
-    "0.0.1": {
-      "files": {
-        "darwin-amd64": "0.0.1/darwin-amd64/eip-client",
-        "darwin-arm64": "0.0.1/darwin-arm64/eip-client",
-        "linux-amd64": "0.0.1/linux-amd64/eip-client",
-        "linux-arm64": "0.0.1/linux-arm64/eip-client",
-        "windows-amd64": "0.0.1/windows-amd64/eip-client.exe"
-      }
-    },
     "1.0.0": {
       "files": {
         "darwin-amd64": "1.0.0/darwin-amd64/eip-client",
@@ -27,7 +18,16 @@
         "linux-arm64": "1.0.1/linux-arm64/eip-client",
         "windows-amd64": "1.0.1/windows-amd64/eip-client.exe"
       }
+    },
+    "1.0.2": {
+      "files": {
+        "darwin-amd64": "1.0.2/darwin-amd64/eip-client",
+        "darwin-arm64": "1.0.2/darwin-arm64/eip-client",
+        "linux-amd64": "1.0.2/linux-amd64/eip-client",
+        "linux-arm64": "1.0.2/linux-arm64/eip-client",
+        "windows-amd64": "1.0.2/windows-amd64/eip-client.exe"
+      }
     }
   },
-  "created": 1758770484312
+  "created": 1758777076385
 }
